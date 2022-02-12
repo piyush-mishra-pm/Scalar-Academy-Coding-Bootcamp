@@ -1,4 +1,4 @@
-public class SortedArrayToBalancedBST {
+public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public TreeNode sortedArrayToBST(final int[] A) {
         return solve(A,0,A.length-1);

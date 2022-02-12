@@ -29,6 +29,7 @@ Return a root node of the Binary Search Tree.
 Input 1:
 
 A : [1, 2, 3]
+
 Input 2:
 
 A : [1, 2, 3, 5, 10]

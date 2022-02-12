@@ -1,10 +1,10 @@
-#Scalar Academy
+# Scalar Academy
 
 Learnings from Scalar Academy's coding bootcamp I attend.
 
-##Quick Links
+## Quick Links
 
-###Data Structure & Algorithm:
+### Data Structure & Algorithm:
 
 - Stacks
 - Queues
